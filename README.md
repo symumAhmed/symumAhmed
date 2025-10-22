@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Symum Ahmed
-- 👀 I’m interested in Data Analysis and Web Development.
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Data Analysis and Artificial Intelligence.
+- 🌱 I’m currently on a journey to become a data scientist
 - 📫 How to reach me : symumahmed21@gmail.com
 
 <!---
